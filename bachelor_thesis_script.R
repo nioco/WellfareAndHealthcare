@@ -6,6 +6,7 @@ library("rmarkdown")
 # Daten laden
 setwd("~/Desktop/Studium/Psychologie/Bachelorarbeit/Data")
 load("~/Desktop/Studium/Psychologie/Bachelorarbeit/Data/EVS_WVS_Joint_v2_0.rdata")
+# Da der gesamte EVS-WVS-Joint-Datensatz sehr groß ist, sind nur die folgenden bearbeiteten Datensätze im Repository beigelegt
 
 # Selektion der Variablen Lebenszufriedenheit, Nation und 
 # selbstberichtete Gesundheit
